@@ -51,10 +51,10 @@
         <sys_created_by/>
         <sys_created_on>2023-06-29 10:13:37</sys_created_on>
         <sys_id>ffcca038473b6110a9a58a5f746d43bf</sys_id>
-        <sys_mod_count/>
+        <sys_mod_count>0</sys_mod_count>
         <sys_recorded_at>18906a4e4680000000</sys_recorded_at>
-        <sys_updated_by/>
-        <sys_updated_on/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-21 13:16:54</sys_updated_on>
         <type>Table</type>
         <update_guid>bfcca038523b61100b550d3f6c2a2ebf</update_guid>
         <update_guid_history>bfcca038523b61100b550d3f6c2a2ebf:298120547</update_guid_history>
