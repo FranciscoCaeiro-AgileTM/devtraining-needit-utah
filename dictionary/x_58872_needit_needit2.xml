@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" db_object_id="854570b0477b6110a9a58a5f746d438a" extends="task" label="NeedIt2" max_length="40" name="x_58872_needit_needit2" type="collection">
+<<<<<<< HEAD
         <element attributes="edge_encryption_enabled=true" label="Other" max_length="40" name="u_other" type="string"/>
+=======
+        <element attributes="target_field=percent_complete_target,target_threshold_colors=0:darkred;33:orangered;66:gold;90:lime,target_field=target&#13;&#10;&#13;&#10;" label="% complete" max_length="15" name="complete" type="percent_complete"/>
+        <element label="Target" max_length="20" name="target" type="decimal"/>
+>>>>>>> DataVisualizationModule
         <element attributes="encode_utf8=false" label="Requested for" mandatory="true" max_length="32" name="u_requested_for" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Requested for email" mandatory="true" max_length="40" name="u_requested_for_email" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="legal" label="Request type" mandatory="true" max_length="40" name="u_request_type" type="string">
